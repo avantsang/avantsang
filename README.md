@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello! 👋
+[![Generic badge](https://img.shields.io/badge/grad-2024-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/compiling...-fail-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/try%20again%3F-yes-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/compiled%3F-success!-green.svg)](https://shields.io/)
+```python
+name = "Avan Tsang"
 
-<!--
-**avantsang/avantsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+education = "B.S. Computer Science (Data Science), BIS Major, Monash University"
 
-Here are some ideas to get you started:
+languages = ["Python", "R", "SQL", "HTML", "CSS"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tech = ["APIs/SDKs", "cloud", "databases", "data engineering", "applications",
+        "business analytics"]
+
+interests = ["fashion", "self development", "cooking", "audio gear", "keyboards",
+             "rnb", "tech", "gym", "food", "art"]
+
+def beAlive(self):
+  do([assignments, projects], languages);
+  learnAbout(tech);
+  pursue(interests);
+  sleep(28800);
+  return(impact);
+```
