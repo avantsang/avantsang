@@ -14,7 +14,7 @@ tech = ["APIs/SDKs", "cloud", "databases", "data engineering", "applications",
         "business analytics"]
 
 interests = ["fashion", "reading", "art", "cooking", "audio gear", "home tech",
-             "mechanical keyboards", "rnb", "exercise", "food", "coffee"]
+             "mechanical keyboards", "rnb", "exercise", "video games", "coffee"]
 
 def beAlive(self):
   do([assignments, projects], languages);
