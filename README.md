@@ -13,8 +13,8 @@ languages = ["Python", "R", "SQL", "HTML", "CSS"]
 tech = ["APIs/SDKs", "cloud", "databases", "data engineering", "applications",
         "business analytics"]
 
-interests = ["fashion", "self development", "cooking", "audio gear", "keyboards",
-             "rnb", "tech", "gym", "food", "art"]
+interests = ["fashion", "reading", "art", "cooking", "audio gear", "home tech",
+             "mechanical keyboards", "rnb", "exercise", "food", "coffee"]
 
 def beAlive(self):
   do([assignments, projects], languages);
