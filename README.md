@@ -1,8 +1,7 @@
 ### Hello! 👋
-[![Generic badge](https://img.shields.io/badge/grad-2024-blue.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/compiling...-fail-red.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/try%20again%3F-yes-green.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/compiled%3F-success!-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/grad-2023-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/data-nerd-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/caffeinated%3F-yep-blue)](https://shields.io/)
 ```python
 name = "Avan Tsang"
 
